@@ -1,3 +1,9 @@
+![Dex Page](screenshot1.png)
+
+![PokeDetail Page](screenshot2.png)
+
+![Battle Page](screenshot3.png)
+
 # _Pokedex_
 
 #### _A Java web app that stores the original 151 Pokemon in the Pokedex (using SQL database) along with their moves which are used in a separate battle mode game._
